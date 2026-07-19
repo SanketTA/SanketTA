@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:0891b2&height=140&text=Sanket%20Aghav&fontSize=46&fontColor=ffffff&fontAlign=50&fontAlignY=55&desc=Backend%20Engineer%20%C2%B7%20AI%20%2F%20GenAI&descAlign=50&descAlignY=78&descSize=16&descColor=a5f3fc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0e7490,100:0891b2&height=200&text=Sanket%20Aghav&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%C2%B7%20Data%20%2F%20AI%20Engineer&descAlignY=58&descAlign=50&descSize=17&descColor=a5f3fc" width="100%"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Building+backend+systems+that+scale;Building+AI+agents+that+actually+work;RAG+%7C+LangChain+%7C+LangGraph+%7C+PySpark" alt="Typing SVG" />
 
 <br/>
 
@@ -8,6 +10,8 @@
 <a href="https://linkedin.com/in/sanket-aghav">LinkedIn</a> ·
 <a href="mailto:sankettaghav@gmail.com">Email</a> ·
 <a href="https://github.com/SanketTA?tab=repositories">Repositories</a>
+
+![Profile Views](https://komarev.com/ghpvc/?username=SanketTA&color=0891b2&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -41,7 +45,32 @@ ETL pipelines at scale. PySpark jobs cleaning and transforming enterprise datase
 
 **🤖 AI / GenAI**
 
-RAG systems, agent workflows, and semantic search. LangChain + LangGraph for orchestration, vector DBs for retrieval, prompts that reliably return structured output — not just demos.
+RAG systems, agent workflows, and semantic search. LangChain + LangGraph for orchestration, vector DBs for retrieval, prompts that reliably return structured output.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### experience
+
+<table>
+<tr>
+<td width="100%">
+
+**Data & AI Engineer** · United Parcel Service (via TCS) &nbsp; <sub>2025 – 2026</sub>
+
+Built PySpark ETL pipelines processing preload operations data across multiple UPS facilities, and a Python dashboard that cut manual monitoring effort for ops teams. Separately, built an internal RAG platform on ServiceNow incident history — chunking, embedding, and indexing into an Amazon Vector DB, orchestrated with LangChain — so support teams could retrieve similar past incidents in seconds instead of searching manually.
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+**IBM i (AS/400) Developer** · AXA Insurance (via TCS) &nbsp; <sub>2026 – Present</sub>
+
+Design and maintain RPGLE applications on IBM i for core insurance workflows, with DB2-based business logic and SQL tuned for reporting performance. Own root-cause analysis on production issues and ship preventive fixes through the full release cycle.
 
 </td>
 </tr>
@@ -91,6 +120,16 @@ RAG systems, agent workflows, and semantic search. LangChain + LangGraph for orc
 
 <br/>
 
+### milestones
+
+<div align="center">
+
+🏅 Best Team Award — UPS engagement &nbsp;·&nbsp; 🙌 Client Appreciation — caught a critical server issue pre-impact &nbsp;·&nbsp; ☁️ AWS Academy Cloud Architecting &nbsp;·&nbsp; 💻 HackerRank Python 4★
+
+</div>
+
+<br/>
+
 ### github activity
 
 <div align="center">
@@ -120,10 +159,11 @@ RAG systems, agent workflows, and semantic search. LangChain + LangGraph for orc
 
 <div align="center">
 
-<sub>Open to backend & AI engineering roles — reach out on <a href="https://linkedin.com/in/sanket-aghav">LinkedIn</a> or <a href="mailto:sankettaghav@gmail.com">email</a>.</sub>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanket-aghav)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sankettaghav@gmail.com)
 
-<br/><br/>
+<sub>Open to backend & AI engineering roles.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0891b2,100:0f172a&height=3&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:0e7490,100:0f172a&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=18&fontColor=e2e8f0&fontAlignY=75" width="100%"/>
 
 </div>
