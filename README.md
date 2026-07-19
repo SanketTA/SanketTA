@@ -7,7 +7,7 @@
 <br/>
 
 <code>Pune, India</code> ·
-<a href="https://linkedin.com/in/sanket-aghav">LinkedIn</a> ·
+<a href="https://www.linkedin.com/in/sanket-aghav-4848a1228/">LinkedIn</a> ·
 <a href="mailto:sankettaghav@gmail.com">Email</a> ·
 <a href="https://github.com/SanketTA?tab=repositories">Repositories</a>
 
@@ -176,7 +176,7 @@ Full-stack access control app with auth and site blocking, backed by SQLite.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanket-aghav)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanket-aghav-4848a1228/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sankettaghav@gmail.com)
 
 <sub>Open to backend & AI engineering roles.</sub>
