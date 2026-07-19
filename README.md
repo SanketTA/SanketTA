@@ -1,182 +1,129 @@
 <div align="center">
 
-<!-- Capsule Render Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0891b2&height=220&section=header&text=Sanket%20Aghav&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%E2%9C%A6%20Data%20Engineering%20%E2%9C%A6%20GenAI&descAlignY=58&descAlign=50&descSize=18&descColor=a5f3fc" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:0891b2&height=140&text=Sanket%20Aghav&fontSize=46&fontColor=ffffff&fontAlign=50&fontAlignY=55&desc=Backend%20Engineer%20%C2%B7%20AI%20%2F%20GenAI&descAlign=50&descAlignY=78&descSize=16&descColor=a5f3fc" width="100%"/>
 
 <br/>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Backend+%26+Data%2FAI+%F0%9F%9A%80;Building+Scalable+ETL+Pipelines+%E2%9A%A1;RAG+%7C+LangChain+%7C+Vector+Search+%F0%9F%A4%96;Django+%7C+Flask+%7C+REST+APIs+%F0%9F%92%BB;PySpark+%7C+SQL+%7C+AWS+%E2%9B%81%EF%B8%8F;IBM+i+(RPGLE)+Enterprise+Systems+%F0%9F%92%A1" alt="Typing SVG" />
-
-<br/><br/>
-
-<!-- Profile Views & Followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=SanketTA&color=0891b2&style=for-the-badge&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/SanketTA?style=for-the-badge&color=22d3ee&labelColor=0f172a&label=Followers)](https://github.com/SanketTA)
+<code>Pune, India</code> ·
+<a href="https://linkedin.com/in/sanket-aghav">LinkedIn</a> ·
+<a href="mailto:sankettaghav@gmail.com">Email</a> ·
+<a href="https://github.com/SanketTA?tab=repositories">Repositories</a>
 
 </div>
-
----
-
-<div align="center">
-
-## 👋 Hi, I'm Sanket Aghav!
-
-</div>
-
-> 💠 *"Turning raw data into reliable pipelines, and ideas into intelligent systems."*
-
-🎓 **B.Tech in Computer Engineering** &nbsp;|&nbsp; 💻 **Backend & Data/AI Engineer @ TCS** &nbsp;|&nbsp; 🚀 **2+ Years Building Enterprise Software & GenAI Systems**
-
-Backend & AI Engineer with experience building enterprise software, scalable data pipelines, and GenAI applications — currently working across **IBM i (RPGLE)** enterprise systems and **Python / PySpark / LangChain** data & AI platforms. I've built RAG-based incident retrieval systems, ETL pipelines processing large-scale operational data, and AI-powered applications using Google Gemini.
-
----
-
-<div align="center">
-
-## 🧠 Currently Working With & Exploring
 
 <br/>
 
-![Backend](https://img.shields.io/badge/Backend%20Development-Django%20%7C%20Flask-0891b2?style=for-the-badge&labelColor=0f172a)
-![DataEng](https://img.shields.io/badge/Data%20Engineering-PySpark%20%7C%20ETL-0891b2?style=for-the-badge&labelColor=0f172a)
-![GenAI](https://img.shields.io/badge/GenAI-LangChain%20%7C%20RAG-22d3ee?style=for-the-badge&labelColor=0f172a)
-![VectorDB](https://img.shields.io/badge/Vector%20Search-Embeddings%20%7C%20Semantic-22d3ee?style=for-the-badge&labelColor=0f172a)
-![Cloud](https://img.shields.io/badge/AWS-Cloud%20Architecture-06b6d4?style=for-the-badge&labelColor=0f172a)
-![Enterprise](https://img.shields.io/badge/IBM%20i-RPGLE%20%7C%20DB2-06b6d4?style=for-the-badge&labelColor=0f172a)
-![SQL](https://img.shields.io/badge/SQL-Optimization%20%26%20Analytics-67e8f9?style=for-the-badge&labelColor=0f172a)
+I build backend systems and AI applications — from enterprise data pipelines processing millions of records to RAG platforms that let AI agents reason over private data. Most days that means Python, SQL, and increasingly, teaching LLMs to be useful instead of just impressive.
 
-</div>
-
----
-
-<div align="center">
-
-## 🛠️ Tech Stack & Tools
+Right now I split my time between production enterprise systems (IBM i / DB2) at TCS by day, and shipping LangChain / LangGraph agent projects on the side — because the fastest way to actually learn GenAI is to build with it, not read about it.
 
 <br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![CPP](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![DB2](https://img.shields.io/badge/DB2-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux%20(RHEL)-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### what I actually work on
 
-</div>
+<table>
+<tr>
+<td width="33%" valign="top">
 
----
+**🔧 Backend**
 
-<div align="center">
+APIs and services that don't fall over. Django, Flask, REST design, auth, and the unglamorous parts — query optimization, data validation, production debugging.
 
-## 💼 Professional Experience
+</td>
+<td width="33%" valign="top">
 
-<br/>
+**📊 Data Engineering**
 
-</div>
+ETL pipelines at scale. PySpark jobs cleaning and transforming enterprise datasets, SQL tuned for reporting workloads, dashboards people actually check.
 
-**AXA Insurance — IBM i (AS/400) Developer** · *Tata Consultancy Services* · 2026 – Present
-- Designed and maintained interactive & batch RPGLE applications on IBM i (AS/400) based on functional/technical specs
-- Developed DB2-based business logic for core insurance workflows and optimized SQL for reporting performance
-- Diagnosed and resolved production issues through root-cause analysis; participated in release deployments & testing
+</td>
+<td width="33%" valign="top">
 
-**United Parcel Service (UPS) — Data & AI Engineer** · *Tata Consultancy Services* · 2025 – 2026
-- Built scalable **PySpark ETL pipelines** processing preload operations data across multiple UPS facilities
-- Designed **Python dashboards** visualizing preload status, reducing manual monitoring effort for operations teams
-- Built an internal **RAG platform** to surface historical ServiceNow incidents and recommended resolutions
-- Implemented embedding generation, **Amazon Vector Database** indexing, and semantic search using **LangChain**
+**🤖 AI / GenAI**
 
----
+RAG systems, agent workflows, and semantic search. LangChain + LangGraph for orchestration, vector DBs for retrieval, prompts that reliably return structured output — not just demos.
 
-<div align="center">
-
-## 📊 GitHub Stats
+</td>
+</tr>
+</table>
 
 <br/>
 
-![](https://github-readme-stats.vercel.app/api?username=SanketTA&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=SanketTA&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SanketTA&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
----
+### stack I reach for
 
 <div align="center">
 
-## 📈 Contribution Graph
+**Languages** &nbsp; ![Python](https://img.shields.io/badge/-Python-0891b2?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-0891b2?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-0891b2?style=flat-square&logo=postgresql&logoColor=white) ![RPGLE](https://img.shields.io/badge/-RPGLE%20%2F%20IBM%20i-0891b2?style=flat-square&logo=ibm&logoColor=white)
 
-<br/>
+**Backend** &nbsp; ![Django](https://img.shields.io/badge/-Django-164e63?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-164e63?style=flat-square&logo=flask&logoColor=white) ![REST](https://img.shields.io/badge/-REST%20APIs-164e63?style=flat-square&logo=fastapi&logoColor=white)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SanketTA&bg_color=0d1117&color=22d3ee&line=0891b2&point=a5f3fc&area=true&area_color=0891b2&hide_border=true&radius=8" />
+**Data** &nbsp; ![PySpark](https://img.shields.io/badge/-PySpark-155e75?style=flat-square&logo=apachespark&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-155e75?style=flat-square&logo=pandas&logoColor=white) ![DB2](https://img.shields.io/badge/-DB2-155e75?style=flat-square&logo=ibm&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-155e75?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-155e75?style=flat-square&logo=mongodb&logoColor=white)
+
+**AI / GenAI** &nbsp; ![LangChain](https://img.shields.io/badge/-LangChain-134e4a?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/-LangGraph-134e4a?style=flat-square&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini-134e4a?style=flat-square&logo=googlegemini&logoColor=white) ![Ollama](https://img.shields.io/badge/-Ollama-134e4a?style=flat-square&logoColor=white)
+
+**Infra** &nbsp; ![AWS](https://img.shields.io/badge/-AWS-1e293b?style=flat-square&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-1e293b?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-1e293b?style=flat-square&logo=linux&logoColor=white) ![Git](https://img.shields.io/badge/-Git-1e293b?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
----
+<br/>
+
+### things I've shipped
 
 <div align="center">
 
-## 🐍 Contribution Snake
+<a href="https://github.com/SanketTA/langchain-weather-app">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SanketTA&repo=langchain-weather-app&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&icon_color=0891b2" />
+</a>
+<a href="https://github.com/SanketTA/local-ai-agent">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SanketTA&repo=local-ai-agent&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&icon_color=0891b2" />
+</a>
+
+<a href="https://github.com/SanketTA/RecipeBot">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SanketTA&repo=RecipeBot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&icon_color=0891b2" />
+</a>
+<a href="https://github.com/SanketTA/Website_Blocker_Using_Django">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SanketTA&repo=Website_Blocker_Using_Django&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&icon_color=0891b2" />
+</a>
+
+<sub>full list → <a href="https://github.com/SanketTA?tab=repositories">github.com/SanketTA?tab=repositories</a></sub>
+
+</div>
 
 <br/>
+
+### github activity
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SanketTA&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&icon_color=0891b2&include_all_commits=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanketTA&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&layout=compact"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SanketTA&bg_color=0d1117&color=22d3ee&line=0891b2&point=c9d1d9&area=true&area_color=0891b2&hide_border=true&radius=8" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SanketTA/SanketTA/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SanketTA/SanketTA/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/SanketTA/SanketTA/output/github-snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/SanketTA/SanketTA/output/github-snake-dark.svg" width="100%"/>
 </picture>
 
-> ℹ️ *Snake animation requires a GitHub Actions workflow set up in your `SanketTA/SanketTA` repo — see [Platane/snk](https://github.com/Platane/snk) to enable it.*
-
 </div>
 
----
+<br/>
 
 <div align="center">
 
-## 🏆 Achievements & Certifications
+<sub>Open to backend & AI engineering roles — reach out on <a href="https://linkedin.com/in/sanket-aghav">LinkedIn</a> or <a href="mailto:sankettaghav@gmail.com">email</a>.</sub>
 
-<br/>
+<br/><br/>
 
-</div>
-
-- 🏅 **Best Team Award** — Recognized for outstanding collaboration and delivery on the UPS engagement
-- 🙌 **Client Appreciation** — Proactively identified and resolved a critical server issue before business impact
-- ☁️ **AWS Academy Cloud Architecting** — EC2, S3, IAM, RDS
-- 📊 **Data Analytics Certificate** — Godrej Infotech CSR Initiative (100 hrs)
-- 🗄️ **Zensar ESD Training** — Database design & scripting with MySQL & Python
-- 💻 **HackerRank** — SQL Certified · Python 4★ · Silver Badge · 30+ problems solved
-
----
-
-<div align="center">
-
-## 🌐 Let's Connect!
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanket-aghav)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SanketTA)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sankettaghav@gmail.com)
-
-<br/>
-
-[![](https://visitcount.itsvg.in/api?id=SanketTA&icon=0&color=6)](https://visitcount.itsvg.in)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:164e63,100:0891b2&height=130&section=footer&text=Thanks+for+visiting!+%F0%9F%9A%80&fontSize=20&fontColor=a5f3fc&animation=twinkling&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0891b2,100:0f172a&height=3&width=100%" width="100%"/>
 
 </div>
