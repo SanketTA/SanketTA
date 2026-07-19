@@ -82,35 +82,17 @@ Design and maintain RPGLE applications on IBM i for core insurance workflows, wi
 
 <div align="center">
 
-**Languages** &nbsp; ![Python](https://img.shields.io/badge/-Python-0891b2?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-0891b2?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-0891b2?style=flat-square&logo=postgresql&logoColor=white) ![RPGLE](https://img.shields.io/badge/-RPGLE%20%2F%20IBM%20i-0891b2?style=flat-square&logo=ibm&logoColor=white)
+**Languages** &nbsp; ![Python](https://img.shields.io/badge/-Python-0891b2?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-0891b2?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-0891b2?style=flat-square&logo=javascript&logoColor=white) ![RPGLE](https://img.shields.io/badge/-RPGLE-0891b2?style=flat-square&logo=ibm&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-0891b2?style=flat-square&logo=postgresql&logoColor=white)
 
-**Backend** &nbsp; ![Django](https://img.shields.io/badge/-Django-164e63?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-164e63?style=flat-square&logo=flask&logoColor=white) ![REST](https://img.shields.io/badge/-REST%20APIs-164e63?style=flat-square&logo=fastapi&logoColor=white)
+**Backend** &nbsp; ![Django](https://img.shields.io/badge/-Django-164e63?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-164e63?style=flat-square&logo=flask&logoColor=white) ![REST API](https://img.shields.io/badge/-REST%20API-164e63?style=flat-square&logo=fastapi&logoColor=white) ![MCP](https://img.shields.io/badge/-MCP-164e63?style=flat-square&logoColor=white)
 
-**Data** &nbsp; ![PySpark](https://img.shields.io/badge/-PySpark-155e75?style=flat-square&logo=apachespark&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-155e75?style=flat-square&logo=pandas&logoColor=white) ![DB2](https://img.shields.io/badge/-DB2-155e75?style=flat-square&logo=ibm&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-155e75?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-155e75?style=flat-square&logo=mongodb&logoColor=white)
+**Data Engineering** &nbsp; ![PySpark](https://img.shields.io/badge/-PySpark-155e75?style=flat-square&logo=apachespark&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-155e75?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-155e75?style=flat-square&logo=plotly&logoColor=white) ![ETL Pipelines](https://img.shields.io/badge/-ETL%20Pipelines-155e75?style=flat-square&logoColor=white)
 
-**AI / GenAI** &nbsp; ![LangChain](https://img.shields.io/badge/-LangChain-134e4a?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/-LangGraph-134e4a?style=flat-square&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini-134e4a?style=flat-square&logo=googlegemini&logoColor=white) ![Ollama](https://img.shields.io/badge/-Ollama-134e4a?style=flat-square&logoColor=white)
+**AI / GenAI** &nbsp; ![LangChain](https://img.shields.io/badge/-LangChain-134e4a?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/-LangGraph-134e4a?style=flat-square&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini-134e4a?style=flat-square&logo=googlegemini&logoColor=white) ![RAG](https://img.shields.io/badge/-RAG-134e4a?style=flat-square&logoColor=white) ![Vector Search](https://img.shields.io/badge/-Vector%20Search-134e4a?style=flat-square&logoColor=white)
 
-**Infra** &nbsp; ![AWS](https://img.shields.io/badge/-AWS-1e293b?style=flat-square&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-1e293b?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-1e293b?style=flat-square&logo=linux&logoColor=white) ![Git](https://img.shields.io/badge/-Git-1e293b?style=flat-square&logo=git&logoColor=white)
+**Database** &nbsp; ![DB2](https://img.shields.io/badge/-DB2-1e293b?style=flat-square&logo=ibm&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-1e293b?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-1e293b?style=flat-square&logo=sqlite&logoColor=white) ![Amazon Vector DB](https://img.shields.io/badge/-Amazon%20Vector%20DB-1e293b?style=flat-square&logo=amazonaws&logoColor=white)
 
-<br/>
-
-<details>
-<summary><b>full tech stack ↓</b></summary>
-<br/>
-
-**Languages** &nbsp; ![Python](https://img.shields.io/badge/-Python-0891b2?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-0891b2?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-0891b2?style=flat-square&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/-C-0891b2?style=flat-square&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-0891b2?style=flat-square&logo=javascript&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-0891b2?style=flat-square&logo=postgresql&logoColor=white) ![RPGLE](https://img.shields.io/badge/-RPGLE%20%2F%20IBM%20i-0891b2?style=flat-square&logo=ibm&logoColor=white)
-
-**Backend** &nbsp; ![Django](https://img.shields.io/badge/-Django-164e63?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-164e63?style=flat-square&logo=flask&logoColor=white) ![REST APIs](https://img.shields.io/badge/-REST%20APIs-164e63?style=flat-square&logo=fastapi&logoColor=white) ![JWT](https://img.shields.io/badge/-JWT%20Auth-164e63?style=flat-square&logo=jsonwebtokens&logoColor=white) ![JSON](https://img.shields.io/badge/-JSON-164e63?style=flat-square&logo=json&logoColor=white)
-
-**Data Engineering** &nbsp; ![PySpark](https://img.shields.io/badge/-PySpark-155e75?style=flat-square&logo=apachespark&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-155e75?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-155e75?style=flat-square&logo=plotly&logoColor=white) ![ETL](https://img.shields.io/badge/-ETL%20Pipelines-155e75?style=flat-square&logoColor=white)
-
-**AI / GenAI** &nbsp; ![LangChain](https://img.shields.io/badge/-LangChain-134e4a?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/-LangGraph-134e4a?style=flat-square&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini-134e4a?style=flat-square&logo=googlegemini&logoColor=white) ![Ollama](https://img.shields.io/badge/-Ollama-134e4a?style=flat-square&logoColor=white) ![RAG](https://img.shields.io/badge/-RAG-134e4a?style=flat-square&logoColor=white) ![Vector Search](https://img.shields.io/badge/-Vector%20Search-134e4a?style=flat-square&logoColor=white)
-
-**Databases** &nbsp; ![DB2](https://img.shields.io/badge/-DB2-155e75?style=flat-square&logo=ibm&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-155e75?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-155e75?style=flat-square&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-155e75?style=flat-square&logo=sqlite&logoColor=white) ![Amazon Vector DB](https://img.shields.io/badge/-Amazon%20Vector%20DB-155e75?style=flat-square&logo=amazonaws&logoColor=white)
-
-**Tools & Platforms** &nbsp; ![AWS](https://img.shields.io/badge/-AWS-1e293b?style=flat-square&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-1e293b?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux%20(RHEL)-1e293b?style=flat-square&logo=linux&logoColor=white) ![Git](https://img.shields.io/badge/-Git-1e293b?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-1e293b?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-1e293b?style=flat-square&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-1e293b?style=flat-square&logo=visualstudiocode&logoColor=white) ![Agile/Scrum](https://img.shields.io/badge/-Agile%20%2F%20Scrum-1e293b?style=flat-square&logoColor=white)
-
-</details>
+**Tools & Platform** &nbsp; ![AWS](https://img.shields.io/badge/-AWS-0f172a?style=flat-square&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-0f172a?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-0f172a?style=flat-square&logo=linux&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-0f172a?style=flat-square&logo=github&logoColor=white)
 
 </div>
 
@@ -167,13 +149,10 @@ Full-stack access control app with auth and site blocking, backed by SQLite.
 
 </div>
 
-
 ### github activity
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SanketTA&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&icon_color=0891b2&include_all_commits=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanketTA&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&layout=compact"/>
 
 <br/>
 
